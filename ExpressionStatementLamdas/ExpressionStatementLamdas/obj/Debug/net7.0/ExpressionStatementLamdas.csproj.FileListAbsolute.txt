@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\ExpressionStatementLamdas\ExpressionStatementLamdas\bin\Debug\net7.0\ExpressionStatementLamdas.exe
+D:\Vikesh Workspace\Server Side\!1stDay\ExpressionStatementLamdas\ExpressionStatementLamdas\bin\Debug\net7.0\ExpressionStatementLamdas.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\ExpressionStatementLamdas\ExpressionStatementLamdas\bin\Debug\net7.0\ExpressionStatementLamdas.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\ExpressionStatementLamdas\ExpressionStatementLamdas\bin\Debug\net7.0\ExpressionStatementLamdas.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExpressionStatementLamdas\ExpressionStatementLamdas\bin\Debug\net7.0\ExpressionStatementLamdas.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\ExpressionStatementLamdas\ExpressionStatementLamdas\obj\Debug\net7.0\ExpressionStatementLamdas.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExpressionStatementLamdas\ExpressionStatementLamdas\obj\Debug\net7.0\ExpressionStatementLamdas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\ExpressionStatementLamdas\ExpressionStatementLamdas\obj\Debug\net7.0\ExpressionStatementLamdas.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExpressionStatementLamdas\ExpressionStatementLamdas\obj\Debug\net7.0\ExpressionStatementLamdas.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\ExpressionStatementLamdas\ExpressionStatementLamdas\obj\Debug\net7.0\ExpressionStatementLamdas.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExpressionStatementLamdas\ExpressionStatementLamdas\obj\Debug\net7.0\ExpressionStatementLamdas.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExpressionStatementLamdas\ExpressionStatementLamdas\obj\Debug\net7.0\refint\ExpressionStatementLamdas.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExpressionStatementLamdas\ExpressionStatementLamdas\obj\Debug\net7.0\ExpressionStatementLamdas.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\ExpressionStatementLamdas\ExpressionStatementLamdas\obj\Debug\net7.0\ExpressionStatementLamdas.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExpressionStatementLamdas\ExpressionStatementLamdas\obj\Debug\net7.0\ref\ExpressionStatementLamdas.dll

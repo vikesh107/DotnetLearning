@@ -1,0 +1,5 @@
+D:\Vikesh Workspace\Server Side\!1stDay\Project1\Project1\obj\Debug\net7.0\Project1.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Project1\Project1\obj\Debug\net7.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\Project1\Project1\obj\Debug\net7.0\Project1.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Project1\Project1\obj\Debug\net7.0\Project1.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\Project1\Project1\obj\Debug\net7.0\Project1.csproj.CoreCompileInputs.cache

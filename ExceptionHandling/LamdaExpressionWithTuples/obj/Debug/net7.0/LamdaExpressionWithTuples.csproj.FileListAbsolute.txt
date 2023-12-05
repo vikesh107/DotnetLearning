@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\LamdaExpressionWithTuples\bin\Debug\net7.0\LamdaExpressionWithTuples.exe
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\LamdaExpressionWithTuples\bin\Debug\net7.0\LamdaExpressionWithTuples.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\LamdaExpressionWithTuples\bin\Debug\net7.0\LamdaExpressionWithTuples.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\LamdaExpressionWithTuples\bin\Debug\net7.0\LamdaExpressionWithTuples.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\LamdaExpressionWithTuples\bin\Debug\net7.0\LamdaExpressionWithTuples.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\LamdaExpressionWithTuples\obj\Debug\net7.0\LamdaExpressionWithTuples.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\LamdaExpressionWithTuples\obj\Debug\net7.0\LamdaExpressionWithTuples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\LamdaExpressionWithTuples\obj\Debug\net7.0\LamdaExpressionWithTuples.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\LamdaExpressionWithTuples\obj\Debug\net7.0\LamdaExpressionWithTuples.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\LamdaExpressionWithTuples\obj\Debug\net7.0\LamdaExpressionWithTuples.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\LamdaExpressionWithTuples\obj\Debug\net7.0\LamdaExpressionWithTuples.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\LamdaExpressionWithTuples\obj\Debug\net7.0\refint\LamdaExpressionWithTuples.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\LamdaExpressionWithTuples\obj\Debug\net7.0\LamdaExpressionWithTuples.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\LamdaExpressionWithTuples\obj\Debug\net7.0\LamdaExpressionWithTuples.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\LamdaExpressionWithTuples\obj\Debug\net7.0\ref\LamdaExpressionWithTuples.dll

@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\OrderByAndThenBy\bin\Debug\net7.0\OrderByAndThenBy.exe
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\OrderByAndThenBy\bin\Debug\net7.0\OrderByAndThenBy.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\OrderByAndThenBy\bin\Debug\net7.0\OrderByAndThenBy.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\OrderByAndThenBy\bin\Debug\net7.0\OrderByAndThenBy.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\OrderByAndThenBy\bin\Debug\net7.0\OrderByAndThenBy.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\OrderByAndThenBy\obj\Debug\net7.0\OrderByAndThenBy.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\OrderByAndThenBy\obj\Debug\net7.0\OrderByAndThenBy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\OrderByAndThenBy\obj\Debug\net7.0\OrderByAndThenBy.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\OrderByAndThenBy\obj\Debug\net7.0\OrderByAndThenBy.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\OrderByAndThenBy\obj\Debug\net7.0\OrderByAndThenBy.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\OrderByAndThenBy\obj\Debug\net7.0\OrderByAndThenBy.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\OrderByAndThenBy\obj\Debug\net7.0\refint\OrderByAndThenBy.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\OrderByAndThenBy\obj\Debug\net7.0\OrderByAndThenBy.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\OrderByAndThenBy\obj\Debug\net7.0\OrderByAndThenBy.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\OrderByAndThenBy\obj\Debug\net7.0\ref\OrderByAndThenBy.dll

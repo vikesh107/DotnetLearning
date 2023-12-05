@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\codingQuestion\bin\Debug\net7.0\codingQuestion.exe
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\codingQuestion\bin\Debug\net7.0\codingQuestion.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\codingQuestion\bin\Debug\net7.0\codingQuestion.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\codingQuestion\bin\Debug\net7.0\codingQuestion.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\codingQuestion\bin\Debug\net7.0\codingQuestion.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\codingQuestion\obj\Debug\net7.0\codingQuestion.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\codingQuestion\obj\Debug\net7.0\codingQuestion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\codingQuestion\obj\Debug\net7.0\codingQuestion.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\codingQuestion\obj\Debug\net7.0\codingQuestion.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\codingQuestion\obj\Debug\net7.0\codingQuestion.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\codingQuestion\obj\Debug\net7.0\codingQuestion.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\codingQuestion\obj\Debug\net7.0\refint\codingQuestion.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\codingQuestion\obj\Debug\net7.0\codingQuestion.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\codingQuestion\obj\Debug\net7.0\codingQuestion.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\codingQuestion\obj\Debug\net7.0\ref\codingQuestion.dll

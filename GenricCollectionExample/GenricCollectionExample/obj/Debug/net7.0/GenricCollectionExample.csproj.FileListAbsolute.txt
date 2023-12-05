@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\GenricCollectionExample\bin\Debug\net7.0\GenricCollectionExample.exe
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\GenricCollectionExample\bin\Debug\net7.0\GenricCollectionExample.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\GenricCollectionExample\bin\Debug\net7.0\GenricCollectionExample.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\GenricCollectionExample\bin\Debug\net7.0\GenricCollectionExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\GenricCollectionExample\bin\Debug\net7.0\GenricCollectionExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\GenricCollectionExample\obj\Debug\net7.0\GenricCollectionExample.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\GenricCollectionExample\obj\Debug\net7.0\GenricCollectionExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\GenricCollectionExample\obj\Debug\net7.0\GenricCollectionExample.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\GenricCollectionExample\obj\Debug\net7.0\GenricCollectionExample.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\GenricCollectionExample\obj\Debug\net7.0\GenricCollectionExample.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\GenricCollectionExample\obj\Debug\net7.0\GenricCollectionExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\GenricCollectionExample\obj\Debug\net7.0\refint\GenricCollectionExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\GenricCollectionExample\obj\Debug\net7.0\GenricCollectionExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\GenricCollectionExample\obj\Debug\net7.0\GenricCollectionExample.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\GenricCollectionExample\obj\Debug\net7.0\ref\GenricCollectionExample.dll

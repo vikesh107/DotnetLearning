@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\SetOpraorExamples\bin\Debug\net7.0\SetOpraorExamples.exe
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\SetOpraorExamples\bin\Debug\net7.0\SetOpraorExamples.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\SetOpraorExamples\bin\Debug\net7.0\SetOpraorExamples.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\SetOpraorExamples\bin\Debug\net7.0\SetOpraorExamples.dll
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\SetOpraorExamples\bin\Debug\net7.0\SetOpraorExamples.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\SetOpraorExamples\obj\Debug\net7.0\SetOpraorExamples.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\SetOpraorExamples\obj\Debug\net7.0\SetOpraorExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\SetOpraorExamples\obj\Debug\net7.0\SetOpraorExamples.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\SetOpraorExamples\obj\Debug\net7.0\SetOpraorExamples.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\SetOpraorExamples\obj\Debug\net7.0\SetOpraorExamples.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\SetOpraorExamples\obj\Debug\net7.0\SetOpraorExamples.dll
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\SetOpraorExamples\obj\Debug\net7.0\refint\SetOpraorExamples.dll
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\SetOpraorExamples\obj\Debug\net7.0\SetOpraorExamples.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\SetOpraorExamples\obj\Debug\net7.0\SetOpraorExamples.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\SetOpraorExamples\obj\Debug\net7.0\ref\SetOpraorExamples.dll

@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\PageginationInLINQ\bin\Debug\net7.0\PageginationInLINQ.exe
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\PageginationInLINQ\bin\Debug\net7.0\PageginationInLINQ.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\PageginationInLINQ\bin\Debug\net7.0\PageginationInLINQ.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\PageginationInLINQ\bin\Debug\net7.0\PageginationInLINQ.dll
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\PageginationInLINQ\bin\Debug\net7.0\PageginationInLINQ.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\PageginationInLINQ\obj\Debug\net7.0\PageginationInLINQ.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\PageginationInLINQ\obj\Debug\net7.0\PageginationInLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\PageginationInLINQ\obj\Debug\net7.0\PageginationInLINQ.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\PageginationInLINQ\obj\Debug\net7.0\PageginationInLINQ.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\PageginationInLINQ\obj\Debug\net7.0\PageginationInLINQ.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\PageginationInLINQ\obj\Debug\net7.0\PageginationInLINQ.dll
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\PageginationInLINQ\obj\Debug\net7.0\refint\PageginationInLINQ.dll
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\PageginationInLINQ\obj\Debug\net7.0\PageginationInLINQ.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\PageginationInLINQ\obj\Debug\net7.0\PageginationInLINQ.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\PageginationInLINQ\obj\Debug\net7.0\ref\PageginationInLINQ.dll

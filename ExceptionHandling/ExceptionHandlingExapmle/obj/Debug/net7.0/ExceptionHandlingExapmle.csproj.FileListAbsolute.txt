@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandlingExapmle\bin\Debug\net7.0\ExceptionHandlingExapmle.exe
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandlingExapmle\bin\Debug\net7.0\ExceptionHandlingExapmle.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandlingExapmle\bin\Debug\net7.0\ExceptionHandlingExapmle.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandlingExapmle\bin\Debug\net7.0\ExceptionHandlingExapmle.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandlingExapmle\bin\Debug\net7.0\ExceptionHandlingExapmle.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandlingExapmle\obj\Debug\net7.0\ExceptionHandlingExapmle.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandlingExapmle\obj\Debug\net7.0\ExceptionHandlingExapmle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandlingExapmle\obj\Debug\net7.0\ExceptionHandlingExapmle.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandlingExapmle\obj\Debug\net7.0\ExceptionHandlingExapmle.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandlingExapmle\obj\Debug\net7.0\ExceptionHandlingExapmle.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandlingExapmle\obj\Debug\net7.0\ExceptionHandlingExapmle.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandlingExapmle\obj\Debug\net7.0\refint\ExceptionHandlingExapmle.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandlingExapmle\obj\Debug\net7.0\ExceptionHandlingExapmle.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandlingExapmle\obj\Debug\net7.0\ExceptionHandlingExapmle.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandlingExapmle\obj\Debug\net7.0\ref\ExceptionHandlingExapmle.dll

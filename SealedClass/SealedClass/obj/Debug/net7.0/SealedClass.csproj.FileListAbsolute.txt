@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\SealedClass\SealedClass\bin\Debug\net7.0\SealedClass.exe
+D:\Vikesh Workspace\Server Side\!1stDay\SealedClass\SealedClass\bin\Debug\net7.0\SealedClass.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\SealedClass\SealedClass\bin\Debug\net7.0\SealedClass.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\SealedClass\SealedClass\bin\Debug\net7.0\SealedClass.dll
+D:\Vikesh Workspace\Server Side\!1stDay\SealedClass\SealedClass\bin\Debug\net7.0\SealedClass.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\SealedClass\SealedClass\obj\Debug\net7.0\SealedClass.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\SealedClass\SealedClass\obj\Debug\net7.0\SealedClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\SealedClass\SealedClass\obj\Debug\net7.0\SealedClass.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\SealedClass\SealedClass\obj\Debug\net7.0\SealedClass.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\SealedClass\SealedClass\obj\Debug\net7.0\SealedClass.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\SealedClass\SealedClass\obj\Debug\net7.0\SealedClass.dll
+D:\Vikesh Workspace\Server Side\!1stDay\SealedClass\SealedClass\obj\Debug\net7.0\refint\SealedClass.dll
+D:\Vikesh Workspace\Server Side\!1stDay\SealedClass\SealedClass\obj\Debug\net7.0\SealedClass.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\SealedClass\SealedClass\obj\Debug\net7.0\SealedClass.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\SealedClass\SealedClass\obj\Debug\net7.0\ref\SealedClass.dll

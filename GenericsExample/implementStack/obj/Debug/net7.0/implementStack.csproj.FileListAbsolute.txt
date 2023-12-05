@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\implementStack\bin\Debug\net7.0\implementStack.exe
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\implementStack\bin\Debug\net7.0\implementStack.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\implementStack\bin\Debug\net7.0\implementStack.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\implementStack\bin\Debug\net7.0\implementStack.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\implementStack\bin\Debug\net7.0\implementStack.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\implementStack\obj\Debug\net7.0\implementStack.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\implementStack\obj\Debug\net7.0\implementStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\implementStack\obj\Debug\net7.0\implementStack.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\implementStack\obj\Debug\net7.0\implementStack.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\implementStack\obj\Debug\net7.0\implementStack.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\implementStack\obj\Debug\net7.0\implementStack.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\implementStack\obj\Debug\net7.0\refint\implementStack.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\implementStack\obj\Debug\net7.0\implementStack.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\implementStack\obj\Debug\net7.0\implementStack.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\implementStack\obj\Debug\net7.0\ref\implementStack.dll

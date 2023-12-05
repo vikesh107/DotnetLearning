@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\MulticastDelegates\MulticastDelegates\bin\Debug\net7.0\MulticastDelegates.exe
+D:\Vikesh Workspace\Server Side\!1stDay\MulticastDelegates\MulticastDelegates\bin\Debug\net7.0\MulticastDelegates.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\MulticastDelegates\MulticastDelegates\bin\Debug\net7.0\MulticastDelegates.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\MulticastDelegates\MulticastDelegates\bin\Debug\net7.0\MulticastDelegates.dll
+D:\Vikesh Workspace\Server Side\!1stDay\MulticastDelegates\MulticastDelegates\bin\Debug\net7.0\MulticastDelegates.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\MulticastDelegates\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\MulticastDelegates\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\MulticastDelegates\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\MulticastDelegates\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\MulticastDelegates\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\MulticastDelegates\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.dll
+D:\Vikesh Workspace\Server Side\!1stDay\MulticastDelegates\MulticastDelegates\obj\Debug\net7.0\refint\MulticastDelegates.dll
+D:\Vikesh Workspace\Server Side\!1stDay\MulticastDelegates\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\MulticastDelegates\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\MulticastDelegates\MulticastDelegates\obj\Debug\net7.0\ref\MulticastDelegates.dll

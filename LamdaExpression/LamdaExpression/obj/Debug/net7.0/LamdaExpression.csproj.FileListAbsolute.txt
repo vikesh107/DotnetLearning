@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\LamdaExpression\LamdaExpression\bin\Debug\net7.0\LamdaExpression.exe
+D:\Vikesh Workspace\Server Side\!1stDay\LamdaExpression\LamdaExpression\bin\Debug\net7.0\LamdaExpression.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\LamdaExpression\LamdaExpression\bin\Debug\net7.0\LamdaExpression.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\LamdaExpression\LamdaExpression\bin\Debug\net7.0\LamdaExpression.dll
+D:\Vikesh Workspace\Server Side\!1stDay\LamdaExpression\LamdaExpression\bin\Debug\net7.0\LamdaExpression.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\LamdaExpression\LamdaExpression\obj\Debug\net7.0\LamdaExpression.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\LamdaExpression\LamdaExpression\obj\Debug\net7.0\LamdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\LamdaExpression\LamdaExpression\obj\Debug\net7.0\LamdaExpression.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\LamdaExpression\LamdaExpression\obj\Debug\net7.0\LamdaExpression.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\LamdaExpression\LamdaExpression\obj\Debug\net7.0\LamdaExpression.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\LamdaExpression\LamdaExpression\obj\Debug\net7.0\LamdaExpression.dll
+D:\Vikesh Workspace\Server Side\!1stDay\LamdaExpression\LamdaExpression\obj\Debug\net7.0\refint\LamdaExpression.dll
+D:\Vikesh Workspace\Server Side\!1stDay\LamdaExpression\LamdaExpression\obj\Debug\net7.0\LamdaExpression.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\LamdaExpression\LamdaExpression\obj\Debug\net7.0\LamdaExpression.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\LamdaExpression\LamdaExpression\obj\Debug\net7.0\ref\LamdaExpression.dll

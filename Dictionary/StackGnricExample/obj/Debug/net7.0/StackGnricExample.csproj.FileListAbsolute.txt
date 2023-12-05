@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\StackGnricExample\bin\Debug\net7.0\StackGnricExample.exe
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\StackGnricExample\bin\Debug\net7.0\StackGnricExample.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\StackGnricExample\bin\Debug\net7.0\StackGnricExample.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\StackGnricExample\bin\Debug\net7.0\StackGnricExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\StackGnricExample\bin\Debug\net7.0\StackGnricExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\StackGnricExample\obj\Debug\net7.0\StackGnricExample.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\StackGnricExample\obj\Debug\net7.0\StackGnricExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\StackGnricExample\obj\Debug\net7.0\StackGnricExample.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\StackGnricExample\obj\Debug\net7.0\StackGnricExample.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\StackGnricExample\obj\Debug\net7.0\StackGnricExample.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\StackGnricExample\obj\Debug\net7.0\StackGnricExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\StackGnricExample\obj\Debug\net7.0\refint\StackGnricExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\StackGnricExample\obj\Debug\net7.0\StackGnricExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\StackGnricExample\obj\Debug\net7.0\StackGnricExample.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\StackGnricExample\obj\Debug\net7.0\ref\StackGnricExample.dll

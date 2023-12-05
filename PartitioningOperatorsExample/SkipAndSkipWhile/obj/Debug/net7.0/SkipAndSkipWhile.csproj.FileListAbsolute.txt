@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\SkipAndSkipWhile\bin\Debug\net7.0\SkipAndSkipWhile.exe
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\SkipAndSkipWhile\bin\Debug\net7.0\SkipAndSkipWhile.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\SkipAndSkipWhile\bin\Debug\net7.0\SkipAndSkipWhile.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\SkipAndSkipWhile\bin\Debug\net7.0\SkipAndSkipWhile.dll
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\SkipAndSkipWhile\bin\Debug\net7.0\SkipAndSkipWhile.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\SkipAndSkipWhile\obj\Debug\net7.0\SkipAndSkipWhile.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\SkipAndSkipWhile\obj\Debug\net7.0\SkipAndSkipWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\SkipAndSkipWhile\obj\Debug\net7.0\SkipAndSkipWhile.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\SkipAndSkipWhile\obj\Debug\net7.0\SkipAndSkipWhile.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\SkipAndSkipWhile\obj\Debug\net7.0\SkipAndSkipWhile.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\SkipAndSkipWhile\obj\Debug\net7.0\SkipAndSkipWhile.dll
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\SkipAndSkipWhile\obj\Debug\net7.0\refint\SkipAndSkipWhile.dll
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\SkipAndSkipWhile\obj\Debug\net7.0\SkipAndSkipWhile.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\SkipAndSkipWhile\obj\Debug\net7.0\SkipAndSkipWhile.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\SkipAndSkipWhile\obj\Debug\net7.0\ref\SkipAndSkipWhile.dll

@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\Records\Records\bin\Debug\net7.0\Records.exe
+D:\Vikesh Workspace\Server Side\!1stDay\Records\Records\bin\Debug\net7.0\Records.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\Records\Records\bin\Debug\net7.0\Records.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\Records\Records\bin\Debug\net7.0\Records.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Records\Records\bin\Debug\net7.0\Records.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\Records\Records\obj\Debug\net7.0\Records.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Records\Records\obj\Debug\net7.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\Records\Records\obj\Debug\net7.0\Records.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Records\Records\obj\Debug\net7.0\Records.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\Records\Records\obj\Debug\net7.0\Records.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Records\Records\obj\Debug\net7.0\Records.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Records\Records\obj\Debug\net7.0\refint\Records.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Records\Records\obj\Debug\net7.0\Records.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\Records\Records\obj\Debug\net7.0\Records.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Records\Records\obj\Debug\net7.0\ref\Records.dll

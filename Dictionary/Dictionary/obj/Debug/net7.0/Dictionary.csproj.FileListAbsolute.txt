@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\Dictionary\bin\Debug\net7.0\Dictionary.exe
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\Dictionary\bin\Debug\net7.0\Dictionary.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\Dictionary\bin\Debug\net7.0\Dictionary.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\Dictionary\bin\Debug\net7.0\Dictionary.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\Dictionary\bin\Debug\net7.0\Dictionary.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\Dictionary\obj\Debug\net7.0\refint\Dictionary.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\Dictionary\obj\Debug\net7.0\ref\Dictionary.dll

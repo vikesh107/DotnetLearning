@@ -1,0 +1,7 @@
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\SheetCoding\obj\Debug\net7.0\SheetCoding.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\SheetCoding\obj\Debug\net7.0\SheetCoding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\SheetCoding\obj\Debug\net7.0\SheetCoding.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\SheetCoding\obj\Debug\net7.0\SheetCoding.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\SheetCoding\obj\Debug\net7.0\SheetCoding.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\SheetCoding\obj\Debug\net7.0\Interop.Microsoft.Office.Core.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\SheetCoding\obj\Debug\net7.0\SheetCoding.csproj.ResolveComReference.cache

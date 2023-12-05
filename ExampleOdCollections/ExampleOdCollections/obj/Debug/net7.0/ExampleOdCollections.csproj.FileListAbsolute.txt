@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ExampleOdCollections\bin\Debug\net7.0\ExampleOdCollections.exe
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ExampleOdCollections\bin\Debug\net7.0\ExampleOdCollections.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ExampleOdCollections\bin\Debug\net7.0\ExampleOdCollections.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ExampleOdCollections\bin\Debug\net7.0\ExampleOdCollections.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ExampleOdCollections\bin\Debug\net7.0\ExampleOdCollections.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ExampleOdCollections\obj\Debug\net7.0\ExampleOdCollections.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ExampleOdCollections\obj\Debug\net7.0\ExampleOdCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ExampleOdCollections\obj\Debug\net7.0\ExampleOdCollections.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ExampleOdCollections\obj\Debug\net7.0\ExampleOdCollections.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ExampleOdCollections\obj\Debug\net7.0\ExampleOdCollections.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ExampleOdCollections\obj\Debug\net7.0\ExampleOdCollections.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ExampleOdCollections\obj\Debug\net7.0\refint\ExampleOdCollections.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ExampleOdCollections\obj\Debug\net7.0\ExampleOdCollections.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ExampleOdCollections\obj\Debug\net7.0\ExampleOdCollections.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ExampleOdCollections\obj\Debug\net7.0\ref\ExampleOdCollections.dll

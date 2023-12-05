@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollection\GenricCollection\bin\Debug\net7.0\GenricCollection.exe
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollection\GenricCollection\bin\Debug\net7.0\GenricCollection.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollection\GenricCollection\bin\Debug\net7.0\GenricCollection.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollection\GenricCollection\bin\Debug\net7.0\GenricCollection.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollection\GenricCollection\bin\Debug\net7.0\GenricCollection.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollection\GenricCollection\obj\Debug\net7.0\GenricCollection.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollection\GenricCollection\obj\Debug\net7.0\GenricCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollection\GenricCollection\obj\Debug\net7.0\GenricCollection.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollection\GenricCollection\obj\Debug\net7.0\GenricCollection.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollection\GenricCollection\obj\Debug\net7.0\GenricCollection.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollection\GenricCollection\obj\Debug\net7.0\GenricCollection.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollection\GenricCollection\obj\Debug\net7.0\refint\GenricCollection.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollection\GenricCollection\obj\Debug\net7.0\GenricCollection.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollection\GenricCollection\obj\Debug\net7.0\GenricCollection.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollection\GenricCollection\obj\Debug\net7.0\ref\GenricCollection.dll

@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\StackExample\bin\Debug\net7.0\StackExample.exe
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\StackExample\bin\Debug\net7.0\StackExample.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\StackExample\bin\Debug\net7.0\StackExample.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\StackExample\bin\Debug\net7.0\StackExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\StackExample\bin\Debug\net7.0\StackExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\StackExample\obj\Debug\net7.0\StackExample.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\StackExample\obj\Debug\net7.0\StackExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\StackExample\obj\Debug\net7.0\StackExample.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\StackExample\obj\Debug\net7.0\StackExample.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\StackExample\obj\Debug\net7.0\StackExample.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\StackExample\obj\Debug\net7.0\StackExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\StackExample\obj\Debug\net7.0\refint\StackExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\StackExample\obj\Debug\net7.0\StackExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\StackExample\obj\Debug\net7.0\StackExample.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\StackExample\obj\Debug\net7.0\ref\StackExample.dll

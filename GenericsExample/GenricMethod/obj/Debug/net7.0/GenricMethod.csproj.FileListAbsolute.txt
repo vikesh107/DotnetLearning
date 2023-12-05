@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenricMethod\bin\Debug\net7.0\GenricMethod.exe
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenricMethod\bin\Debug\net7.0\GenricMethod.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenricMethod\bin\Debug\net7.0\GenricMethod.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenricMethod\bin\Debug\net7.0\GenricMethod.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenricMethod\bin\Debug\net7.0\GenricMethod.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenricMethod\obj\Debug\net7.0\GenricMethod.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenricMethod\obj\Debug\net7.0\GenricMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenricMethod\obj\Debug\net7.0\GenricMethod.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenricMethod\obj\Debug\net7.0\GenricMethod.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenricMethod\obj\Debug\net7.0\GenricMethod.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenricMethod\obj\Debug\net7.0\GenricMethod.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenricMethod\obj\Debug\net7.0\refint\GenricMethod.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenricMethod\obj\Debug\net7.0\GenricMethod.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenricMethod\obj\Debug\net7.0\GenricMethod.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenricMethod\obj\Debug\net7.0\ref\GenricMethod.dll

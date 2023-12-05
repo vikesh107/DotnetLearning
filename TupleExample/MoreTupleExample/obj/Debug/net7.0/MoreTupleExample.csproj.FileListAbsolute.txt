@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\MoreTupleExample\bin\Debug\net7.0\MoreTupleExample.exe
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\MoreTupleExample\bin\Debug\net7.0\MoreTupleExample.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\MoreTupleExample\bin\Debug\net7.0\MoreTupleExample.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\MoreTupleExample\bin\Debug\net7.0\MoreTupleExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\MoreTupleExample\bin\Debug\net7.0\MoreTupleExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\MoreTupleExample\obj\Debug\net7.0\MoreTupleExample.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\MoreTupleExample\obj\Debug\net7.0\MoreTupleExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\MoreTupleExample\obj\Debug\net7.0\MoreTupleExample.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\MoreTupleExample\obj\Debug\net7.0\MoreTupleExample.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\MoreTupleExample\obj\Debug\net7.0\MoreTupleExample.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\MoreTupleExample\obj\Debug\net7.0\MoreTupleExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\MoreTupleExample\obj\Debug\net7.0\refint\MoreTupleExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\MoreTupleExample\obj\Debug\net7.0\MoreTupleExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\MoreTupleExample\obj\Debug\net7.0\MoreTupleExample.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\MoreTupleExample\obj\Debug\net7.0\ref\MoreTupleExample.dll

@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\VirtualKeyWord\VirtualKeyWord\bin\Debug\net7.0\VirtualKeyWord.exe
+D:\Vikesh Workspace\Server Side\!1stDay\VirtualKeyWord\VirtualKeyWord\bin\Debug\net7.0\VirtualKeyWord.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\VirtualKeyWord\VirtualKeyWord\bin\Debug\net7.0\VirtualKeyWord.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\VirtualKeyWord\VirtualKeyWord\bin\Debug\net7.0\VirtualKeyWord.dll
+D:\Vikesh Workspace\Server Side\!1stDay\VirtualKeyWord\VirtualKeyWord\bin\Debug\net7.0\VirtualKeyWord.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\VirtualKeyWord\VirtualKeyWord\obj\Debug\net7.0\VirtualKeyWord.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\VirtualKeyWord\VirtualKeyWord\obj\Debug\net7.0\VirtualKeyWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\VirtualKeyWord\VirtualKeyWord\obj\Debug\net7.0\VirtualKeyWord.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\VirtualKeyWord\VirtualKeyWord\obj\Debug\net7.0\VirtualKeyWord.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\VirtualKeyWord\VirtualKeyWord\obj\Debug\net7.0\VirtualKeyWord.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\VirtualKeyWord\VirtualKeyWord\obj\Debug\net7.0\VirtualKeyWord.dll
+D:\Vikesh Workspace\Server Side\!1stDay\VirtualKeyWord\VirtualKeyWord\obj\Debug\net7.0\refint\VirtualKeyWord.dll
+D:\Vikesh Workspace\Server Side\!1stDay\VirtualKeyWord\VirtualKeyWord\obj\Debug\net7.0\VirtualKeyWord.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\VirtualKeyWord\VirtualKeyWord\obj\Debug\net7.0\VirtualKeyWord.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\VirtualKeyWord\VirtualKeyWord\obj\Debug\net7.0\ref\VirtualKeyWord.dll

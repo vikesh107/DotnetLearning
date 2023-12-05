@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\OnListPagerabnationExample\bin\Debug\net7.0\OnListPagerabnationExample.exe
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\OnListPagerabnationExample\bin\Debug\net7.0\OnListPagerabnationExample.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\OnListPagerabnationExample\bin\Debug\net7.0\OnListPagerabnationExample.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\OnListPagerabnationExample\bin\Debug\net7.0\OnListPagerabnationExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\OnListPagerabnationExample\bin\Debug\net7.0\OnListPagerabnationExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\OnListPagerabnationExample\obj\Debug\net7.0\OnListPagerabnationExample.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\OnListPagerabnationExample\obj\Debug\net7.0\OnListPagerabnationExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\OnListPagerabnationExample\obj\Debug\net7.0\OnListPagerabnationExample.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\OnListPagerabnationExample\obj\Debug\net7.0\OnListPagerabnationExample.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\OnListPagerabnationExample\obj\Debug\net7.0\OnListPagerabnationExample.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\OnListPagerabnationExample\obj\Debug\net7.0\OnListPagerabnationExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\OnListPagerabnationExample\obj\Debug\net7.0\refint\OnListPagerabnationExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\OnListPagerabnationExample\obj\Debug\net7.0\OnListPagerabnationExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\OnListPagerabnationExample\obj\Debug\net7.0\OnListPagerabnationExample.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\PartitioningOperatorsExample\OnListPagerabnationExample\obj\Debug\net7.0\ref\OnListPagerabnationExample.dll

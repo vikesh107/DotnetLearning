@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\StanderQueryExample\bin\Debug\net7.0\StanderQueryExample.exe
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\StanderQueryExample\bin\Debug\net7.0\StanderQueryExample.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\StanderQueryExample\bin\Debug\net7.0\StanderQueryExample.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\StanderQueryExample\bin\Debug\net7.0\StanderQueryExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\StanderQueryExample\bin\Debug\net7.0\StanderQueryExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\StanderQueryExample\obj\Debug\net7.0\StanderQueryExample.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\StanderQueryExample\obj\Debug\net7.0\StanderQueryExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\StanderQueryExample\obj\Debug\net7.0\StanderQueryExample.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\StanderQueryExample\obj\Debug\net7.0\StanderQueryExample.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\StanderQueryExample\obj\Debug\net7.0\StanderQueryExample.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\StanderQueryExample\obj\Debug\net7.0\StanderQueryExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\StanderQueryExample\obj\Debug\net7.0\refint\StanderQueryExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\StanderQueryExample\obj\Debug\net7.0\StanderQueryExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\StanderQueryExample\obj\Debug\net7.0\StanderQueryExample.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\StanderQueryExample\obj\Debug\net7.0\ref\StanderQueryExample.dll

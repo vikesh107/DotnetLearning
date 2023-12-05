@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\EnumsExample\EnumsExample\bin\Debug\net7.0\EnumsExample.exe
+D:\Vikesh Workspace\Server Side\!1stDay\EnumsExample\EnumsExample\bin\Debug\net7.0\EnumsExample.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\EnumsExample\EnumsExample\bin\Debug\net7.0\EnumsExample.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\EnumsExample\EnumsExample\bin\Debug\net7.0\EnumsExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\EnumsExample\EnumsExample\bin\Debug\net7.0\EnumsExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\EnumsExample\EnumsExample\obj\Debug\net7.0\EnumsExample.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\EnumsExample\EnumsExample\obj\Debug\net7.0\EnumsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\EnumsExample\EnumsExample\obj\Debug\net7.0\EnumsExample.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\EnumsExample\EnumsExample\obj\Debug\net7.0\EnumsExample.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\EnumsExample\EnumsExample\obj\Debug\net7.0\EnumsExample.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\EnumsExample\EnumsExample\obj\Debug\net7.0\EnumsExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\EnumsExample\EnumsExample\obj\Debug\net7.0\refint\EnumsExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\EnumsExample\EnumsExample\obj\Debug\net7.0\EnumsExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\EnumsExample\EnumsExample\obj\Debug\net7.0\EnumsExample.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\EnumsExample\EnumsExample\obj\Debug\net7.0\ref\EnumsExample.dll

@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\NonGenricCollections\bin\Debug\net7.0\NonGenricCollections.exe
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\NonGenricCollections\bin\Debug\net7.0\NonGenricCollections.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\NonGenricCollections\bin\Debug\net7.0\NonGenricCollections.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\NonGenricCollections\bin\Debug\net7.0\NonGenricCollections.dll
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\NonGenricCollections\bin\Debug\net7.0\NonGenricCollections.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\NonGenricCollections\obj\Debug\net7.0\NonGenricCollections.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\NonGenricCollections\obj\Debug\net7.0\NonGenricCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\NonGenricCollections\obj\Debug\net7.0\NonGenricCollections.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\NonGenricCollections\obj\Debug\net7.0\NonGenricCollections.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\NonGenricCollections\obj\Debug\net7.0\NonGenricCollections.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\NonGenricCollections\obj\Debug\net7.0\NonGenricCollections.dll
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\NonGenricCollections\obj\Debug\net7.0\refint\NonGenricCollections.dll
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\NonGenricCollections\obj\Debug\net7.0\NonGenricCollections.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\NonGenricCollections\obj\Debug\net7.0\NonGenricCollections.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\NonGenricCollections\NonGenricCollections\obj\Debug\net7.0\ref\NonGenricCollections.dll

@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\Indexer\Indexer\bin\Debug\net7.0\Indexer.exe
+D:\Vikesh Workspace\Server Side\!1stDay\Indexer\Indexer\bin\Debug\net7.0\Indexer.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\Indexer\Indexer\bin\Debug\net7.0\Indexer.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\Indexer\Indexer\bin\Debug\net7.0\Indexer.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Indexer\Indexer\bin\Debug\net7.0\Indexer.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\Indexer\Indexer\obj\Debug\net7.0\Indexer.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Indexer\Indexer\obj\Debug\net7.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\Indexer\Indexer\obj\Debug\net7.0\Indexer.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Indexer\Indexer\obj\Debug\net7.0\Indexer.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\Indexer\Indexer\obj\Debug\net7.0\Indexer.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Indexer\Indexer\obj\Debug\net7.0\Indexer.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Indexer\Indexer\obj\Debug\net7.0\refint\Indexer.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Indexer\Indexer\obj\Debug\net7.0\Indexer.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\Indexer\Indexer\obj\Debug\net7.0\Indexer.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Indexer\Indexer\obj\Debug\net7.0\ref\Indexer.dll

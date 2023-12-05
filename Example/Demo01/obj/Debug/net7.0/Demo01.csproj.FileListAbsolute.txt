@@ -1,0 +1,17 @@
+D:\Vikesh Workspace\Server Side\!1stDay\Example\Demo01\bin\Debug\net7.0\Demo01.exe
+D:\Vikesh Workspace\Server Side\!1stDay\Example\Demo01\bin\Debug\net7.0\Demo01.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\Example\Demo01\bin\Debug\net7.0\Demo01.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\Example\Demo01\bin\Debug\net7.0\Demo01.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Example\Demo01\bin\Debug\net7.0\Demo01.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\Example\Demo01\obj\Debug\net7.0\Demo01.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Example\Demo01\obj\Debug\net7.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Example\Demo01\obj\Debug\net7.0\Demo01.csproj.ResolveComReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Example\Demo01\obj\Debug\net7.0\Demo01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\Example\Demo01\obj\Debug\net7.0\Demo01.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Example\Demo01\obj\Debug\net7.0\Demo01.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\Example\Demo01\obj\Debug\net7.0\Demo01.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Example\Demo01\obj\Debug\net7.0\Demo01.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Example\Demo01\obj\Debug\net7.0\refint\Demo01.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Example\Demo01\obj\Debug\net7.0\Demo01.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\Example\Demo01\obj\Debug\net7.0\Demo01.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Example\Demo01\obj\Debug\net7.0\ref\Demo01.dll

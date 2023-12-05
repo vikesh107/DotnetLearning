@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\LinqExamples\LinqInArray\bin\Debug\net7.0\LinqInArray.exe
+D:\Vikesh Workspace\Server Side\!1stDay\LinqExamples\LinqInArray\bin\Debug\net7.0\LinqInArray.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\LinqExamples\LinqInArray\bin\Debug\net7.0\LinqInArray.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\LinqExamples\LinqInArray\bin\Debug\net7.0\LinqInArray.dll
+D:\Vikesh Workspace\Server Side\!1stDay\LinqExamples\LinqInArray\bin\Debug\net7.0\LinqInArray.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\LinqExamples\LinqInArray\obj\Debug\net7.0\LinqInArray.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\LinqExamples\LinqInArray\obj\Debug\net7.0\LinqInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\LinqExamples\LinqInArray\obj\Debug\net7.0\LinqInArray.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\LinqExamples\LinqInArray\obj\Debug\net7.0\LinqInArray.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\LinqExamples\LinqInArray\obj\Debug\net7.0\LinqInArray.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\LinqExamples\LinqInArray\obj\Debug\net7.0\LinqInArray.dll
+D:\Vikesh Workspace\Server Side\!1stDay\LinqExamples\LinqInArray\obj\Debug\net7.0\refint\LinqInArray.dll
+D:\Vikesh Workspace\Server Side\!1stDay\LinqExamples\LinqInArray\obj\Debug\net7.0\LinqInArray.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\LinqExamples\LinqInArray\obj\Debug\net7.0\LinqInArray.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\LinqExamples\LinqInArray\obj\Debug\net7.0\ref\LinqInArray.dll

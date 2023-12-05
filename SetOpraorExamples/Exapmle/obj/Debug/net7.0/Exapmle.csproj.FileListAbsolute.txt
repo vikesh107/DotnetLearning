@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\Exapmle\bin\Debug\net7.0\Exapmle.exe
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\Exapmle\bin\Debug\net7.0\Exapmle.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\Exapmle\bin\Debug\net7.0\Exapmle.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\Exapmle\bin\Debug\net7.0\Exapmle.dll
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\Exapmle\bin\Debug\net7.0\Exapmle.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\Exapmle\obj\Debug\net7.0\Exapmle.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\Exapmle\obj\Debug\net7.0\Exapmle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\Exapmle\obj\Debug\net7.0\Exapmle.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\Exapmle\obj\Debug\net7.0\Exapmle.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\Exapmle\obj\Debug\net7.0\Exapmle.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\Exapmle\obj\Debug\net7.0\Exapmle.dll
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\Exapmle\obj\Debug\net7.0\refint\Exapmle.dll
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\Exapmle\obj\Debug\net7.0\Exapmle.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\Exapmle\obj\Debug\net7.0\Exapmle.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\SetOpraorExamples\Exapmle\obj\Debug\net7.0\ref\Exapmle.dll

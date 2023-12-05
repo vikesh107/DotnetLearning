@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\DictionaryExample\bin\Debug\net7.0\DictionaryExample.exe
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\DictionaryExample\bin\Debug\net7.0\DictionaryExample.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\DictionaryExample\bin\Debug\net7.0\DictionaryExample.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\DictionaryExample\bin\Debug\net7.0\DictionaryExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\DictionaryExample\bin\Debug\net7.0\DictionaryExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\DictionaryExample\obj\Debug\net7.0\DictionaryExample.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\DictionaryExample\obj\Debug\net7.0\DictionaryExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\DictionaryExample\obj\Debug\net7.0\DictionaryExample.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\DictionaryExample\obj\Debug\net7.0\DictionaryExample.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\DictionaryExample\obj\Debug\net7.0\DictionaryExample.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\DictionaryExample\obj\Debug\net7.0\DictionaryExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\DictionaryExample\obj\Debug\net7.0\refint\DictionaryExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\DictionaryExample\obj\Debug\net7.0\DictionaryExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\DictionaryExample\obj\Debug\net7.0\DictionaryExample.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenricCollectionExample\DictionaryExample\obj\Debug\net7.0\ref\DictionaryExample.dll

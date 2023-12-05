@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\AggregrateFunctionExamples\bin\Debug\net7.0\AggregrateFunctionExamples.exe
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\AggregrateFunctionExamples\bin\Debug\net7.0\AggregrateFunctionExamples.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\AggregrateFunctionExamples\bin\Debug\net7.0\AggregrateFunctionExamples.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\AggregrateFunctionExamples\bin\Debug\net7.0\AggregrateFunctionExamples.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\AggregrateFunctionExamples\bin\Debug\net7.0\AggregrateFunctionExamples.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\AggregrateFunctionExamples\obj\Debug\net7.0\AggregrateFunctionExamples.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\AggregrateFunctionExamples\obj\Debug\net7.0\AggregrateFunctionExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\AggregrateFunctionExamples\obj\Debug\net7.0\AggregrateFunctionExamples.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\AggregrateFunctionExamples\obj\Debug\net7.0\AggregrateFunctionExamples.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\AggregrateFunctionExamples\obj\Debug\net7.0\AggregrateFunctionExamples.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\AggregrateFunctionExamples\obj\Debug\net7.0\AggregrateFunctionExamples.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\AggregrateFunctionExamples\obj\Debug\net7.0\refint\AggregrateFunctionExamples.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\AggregrateFunctionExamples\obj\Debug\net7.0\AggregrateFunctionExamples.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\AggregrateFunctionExamples\obj\Debug\net7.0\AggregrateFunctionExamples.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\AggregrateFunctionExamples\obj\Debug\net7.0\ref\AggregrateFunctionExamples.dll

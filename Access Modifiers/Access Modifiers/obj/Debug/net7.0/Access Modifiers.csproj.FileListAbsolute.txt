@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\Access Modifiers\Access Modifiers\bin\Debug\net7.0\Access Modifiers.exe
+D:\Vikesh Workspace\Server Side\!1stDay\Access Modifiers\Access Modifiers\bin\Debug\net7.0\Access Modifiers.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\Access Modifiers\Access Modifiers\bin\Debug\net7.0\Access Modifiers.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\Access Modifiers\Access Modifiers\bin\Debug\net7.0\Access Modifiers.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Access Modifiers\Access Modifiers\bin\Debug\net7.0\Access Modifiers.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\Access Modifiers\Access Modifiers\obj\Debug\net7.0\Access Modifiers.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Access Modifiers\Access Modifiers\obj\Debug\net7.0\Access Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\Access Modifiers\Access Modifiers\obj\Debug\net7.0\Access Modifiers.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Access Modifiers\Access Modifiers\obj\Debug\net7.0\Access Modifiers.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\Access Modifiers\Access Modifiers\obj\Debug\net7.0\Access Modifiers.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Access Modifiers\Access Modifiers\obj\Debug\net7.0\Access Modifiers.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Access Modifiers\Access Modifiers\obj\Debug\net7.0\refint\Access Modifiers.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Access Modifiers\Access Modifiers\obj\Debug\net7.0\Access Modifiers.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\Access Modifiers\Access Modifiers\obj\Debug\net7.0\Access Modifiers.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Access Modifiers\Access Modifiers\obj\Debug\net7.0\ref\Access Modifiers.dll

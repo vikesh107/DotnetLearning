@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ListExample\bin\Debug\net7.0\ListExample.exe
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ListExample\bin\Debug\net7.0\ListExample.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ListExample\bin\Debug\net7.0\ListExample.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ListExample\bin\Debug\net7.0\ListExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ListExample\bin\Debug\net7.0\ListExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ListExample\obj\Debug\net7.0\ListExample.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ListExample\obj\Debug\net7.0\ListExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ListExample\obj\Debug\net7.0\ListExample.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ListExample\obj\Debug\net7.0\ListExample.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ListExample\obj\Debug\net7.0\ListExample.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ListExample\obj\Debug\net7.0\ListExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ListExample\obj\Debug\net7.0\refint\ListExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ListExample\obj\Debug\net7.0\ListExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ListExample\obj\Debug\net7.0\ListExample.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExampleOdCollections\ListExample\obj\Debug\net7.0\ref\ListExample.dll

@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\FirstAndFirstDefult\bin\Debug\net7.0\FirstAndFirstDefult.exe
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\FirstAndFirstDefult\bin\Debug\net7.0\FirstAndFirstDefult.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\FirstAndFirstDefult\bin\Debug\net7.0\FirstAndFirstDefult.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\FirstAndFirstDefult\bin\Debug\net7.0\FirstAndFirstDefult.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\FirstAndFirstDefult\bin\Debug\net7.0\FirstAndFirstDefult.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\FirstAndFirstDefult\obj\Debug\net7.0\FirstAndFirstDefult.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\FirstAndFirstDefult\obj\Debug\net7.0\FirstAndFirstDefult.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\FirstAndFirstDefult\obj\Debug\net7.0\FirstAndFirstDefult.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\FirstAndFirstDefult\obj\Debug\net7.0\FirstAndFirstDefult.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\FirstAndFirstDefult\obj\Debug\net7.0\FirstAndFirstDefult.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\FirstAndFirstDefult\obj\Debug\net7.0\FirstAndFirstDefult.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\FirstAndFirstDefult\obj\Debug\net7.0\refint\FirstAndFirstDefult.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\FirstAndFirstDefult\obj\Debug\net7.0\FirstAndFirstDefult.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\FirstAndFirstDefult\obj\Debug\net7.0\FirstAndFirstDefult.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\FirstAndFirstDefult\obj\Debug\net7.0\ref\FirstAndFirstDefult.dll

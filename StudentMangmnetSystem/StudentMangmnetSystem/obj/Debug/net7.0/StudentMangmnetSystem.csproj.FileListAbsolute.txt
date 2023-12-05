@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\StudentMangmnetSystem\StudentMangmnetSystem\obj\Debug\net7.0\StudentMangmnetSystem.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StudentMangmnetSystem\StudentMangmnetSystem\obj\Debug\net7.0\StudentMangmnetSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\StudentMangmnetSystem\StudentMangmnetSystem\obj\Debug\net7.0\StudentMangmnetSystem.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StudentMangmnetSystem\StudentMangmnetSystem\obj\Debug\net7.0\StudentMangmnetSystem.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\StudentMangmnetSystem\StudentMangmnetSystem\obj\Debug\net7.0\StudentMangmnetSystem.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StudentMangmnetSystem\StudentMangmnetSystem\bin\Debug\net7.0\StudentMangmnetSystem.exe
+D:\Vikesh Workspace\Server Side\!1stDay\StudentMangmnetSystem\StudentMangmnetSystem\bin\Debug\net7.0\StudentMangmnetSystem.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\StudentMangmnetSystem\StudentMangmnetSystem\bin\Debug\net7.0\StudentMangmnetSystem.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\StudentMangmnetSystem\StudentMangmnetSystem\bin\Debug\net7.0\StudentMangmnetSystem.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StudentMangmnetSystem\StudentMangmnetSystem\bin\Debug\net7.0\StudentMangmnetSystem.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StudentMangmnetSystem\StudentMangmnetSystem\obj\Debug\net7.0\StudentMangmnetSystem.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StudentMangmnetSystem\StudentMangmnetSystem\obj\Debug\net7.0\refint\StudentMangmnetSystem.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StudentMangmnetSystem\StudentMangmnetSystem\obj\Debug\net7.0\StudentMangmnetSystem.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StudentMangmnetSystem\StudentMangmnetSystem\obj\Debug\net7.0\StudentMangmnetSystem.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StudentMangmnetSystem\StudentMangmnetSystem\obj\Debug\net7.0\ref\StudentMangmnetSystem.dll

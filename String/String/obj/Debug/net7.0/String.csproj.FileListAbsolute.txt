@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\String\String\bin\Debug\net7.0\String.exe
+D:\Vikesh Workspace\Server Side\!1stDay\String\String\bin\Debug\net7.0\String.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\String\String\bin\Debug\net7.0\String.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\String\String\bin\Debug\net7.0\String.dll
+D:\Vikesh Workspace\Server Side\!1stDay\String\String\bin\Debug\net7.0\String.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\String\String\obj\Debug\net7.0\String.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\String\String\obj\Debug\net7.0\String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\String\String\obj\Debug\net7.0\String.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\String\String\obj\Debug\net7.0\String.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\String\String\obj\Debug\net7.0\String.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\String\String\obj\Debug\net7.0\String.dll
+D:\Vikesh Workspace\Server Side\!1stDay\String\String\obj\Debug\net7.0\refint\String.dll
+D:\Vikesh Workspace\Server Side\!1stDay\String\String\obj\Debug\net7.0\String.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\String\String\obj\Debug\net7.0\String.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\String\String\obj\Debug\net7.0\ref\String.dll

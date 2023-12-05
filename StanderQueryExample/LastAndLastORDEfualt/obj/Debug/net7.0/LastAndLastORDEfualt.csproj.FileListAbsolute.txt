@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\LastAndLastORDEfualt\bin\Debug\net7.0\LastAndLastORDEfualt.exe
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\LastAndLastORDEfualt\bin\Debug\net7.0\LastAndLastORDEfualt.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\LastAndLastORDEfualt\bin\Debug\net7.0\LastAndLastORDEfualt.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\LastAndLastORDEfualt\bin\Debug\net7.0\LastAndLastORDEfualt.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\LastAndLastORDEfualt\bin\Debug\net7.0\LastAndLastORDEfualt.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\LastAndLastORDEfualt\obj\Debug\net7.0\LastAndLastORDEfualt.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\LastAndLastORDEfualt\obj\Debug\net7.0\LastAndLastORDEfualt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\LastAndLastORDEfualt\obj\Debug\net7.0\LastAndLastORDEfualt.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\LastAndLastORDEfualt\obj\Debug\net7.0\LastAndLastORDEfualt.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\LastAndLastORDEfualt\obj\Debug\net7.0\LastAndLastORDEfualt.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\LastAndLastORDEfualt\obj\Debug\net7.0\LastAndLastORDEfualt.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\LastAndLastORDEfualt\obj\Debug\net7.0\refint\LastAndLastORDEfualt.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\LastAndLastORDEfualt\obj\Debug\net7.0\LastAndLastORDEfualt.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\LastAndLastORDEfualt\obj\Debug\net7.0\LastAndLastORDEfualt.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\LastAndLastORDEfualt\obj\Debug\net7.0\ref\LastAndLastORDEfualt.dll

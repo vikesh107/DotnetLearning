@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\ConditionalStatement\ConditionalStatement\bin\Debug\net7.0\ConditionalStatement.exe
+D:\Vikesh Workspace\Server Side\!1stDay\ConditionalStatement\ConditionalStatement\bin\Debug\net7.0\ConditionalStatement.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\ConditionalStatement\ConditionalStatement\bin\Debug\net7.0\ConditionalStatement.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\ConditionalStatement\ConditionalStatement\bin\Debug\net7.0\ConditionalStatement.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ConditionalStatement\ConditionalStatement\bin\Debug\net7.0\ConditionalStatement.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\ConditionalStatement\ConditionalStatement\obj\Debug\net7.0\ConditionalStatement.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ConditionalStatement\ConditionalStatement\obj\Debug\net7.0\ConditionalStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\ConditionalStatement\ConditionalStatement\obj\Debug\net7.0\ConditionalStatement.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ConditionalStatement\ConditionalStatement\obj\Debug\net7.0\ConditionalStatement.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\ConditionalStatement\ConditionalStatement\obj\Debug\net7.0\ConditionalStatement.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ConditionalStatement\ConditionalStatement\obj\Debug\net7.0\ConditionalStatement.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ConditionalStatement\ConditionalStatement\obj\Debug\net7.0\refint\ConditionalStatement.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ConditionalStatement\ConditionalStatement\obj\Debug\net7.0\ConditionalStatement.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\ConditionalStatement\ConditionalStatement\obj\Debug\net7.0\ConditionalStatement.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ConditionalStatement\ConditionalStatement\obj\Debug\net7.0\ref\ConditionalStatement.dll

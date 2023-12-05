@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.exe
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\refint\ExceptionHandling.dll
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ref\ExceptionHandling.dll

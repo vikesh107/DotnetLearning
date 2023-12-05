@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenericsExample\bin\Debug\net7.0\GenericsExample.exe
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenericsExample\bin\Debug\net7.0\GenericsExample.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenericsExample\bin\Debug\net7.0\GenericsExample.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenericsExample\bin\Debug\net7.0\GenericsExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenericsExample\bin\Debug\net7.0\GenericsExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenericsExample\obj\Debug\net7.0\GenericsExample.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenericsExample\obj\Debug\net7.0\GenericsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenericsExample\obj\Debug\net7.0\GenericsExample.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenericsExample\obj\Debug\net7.0\GenericsExample.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenericsExample\obj\Debug\net7.0\GenericsExample.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenericsExample\obj\Debug\net7.0\GenericsExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenericsExample\obj\Debug\net7.0\refint\GenericsExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenericsExample\obj\Debug\net7.0\GenericsExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenericsExample\obj\Debug\net7.0\GenericsExample.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\GenericsExample\GenericsExample\obj\Debug\net7.0\ref\GenericsExample.dll

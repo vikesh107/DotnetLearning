@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\JoinsExamples\JoinsExamples\bin\Debug\net7.0\JoinsExamples.exe
+D:\Vikesh Workspace\Server Side\!1stDay\JoinsExamples\JoinsExamples\bin\Debug\net7.0\JoinsExamples.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\JoinsExamples\JoinsExamples\bin\Debug\net7.0\JoinsExamples.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\JoinsExamples\JoinsExamples\bin\Debug\net7.0\JoinsExamples.dll
+D:\Vikesh Workspace\Server Side\!1stDay\JoinsExamples\JoinsExamples\bin\Debug\net7.0\JoinsExamples.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\JoinsExamples\JoinsExamples\obj\Debug\net7.0\JoinsExamples.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\JoinsExamples\JoinsExamples\obj\Debug\net7.0\JoinsExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\JoinsExamples\JoinsExamples\obj\Debug\net7.0\JoinsExamples.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\JoinsExamples\JoinsExamples\obj\Debug\net7.0\JoinsExamples.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\JoinsExamples\JoinsExamples\obj\Debug\net7.0\JoinsExamples.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\JoinsExamples\JoinsExamples\obj\Debug\net7.0\JoinsExamples.dll
+D:\Vikesh Workspace\Server Side\!1stDay\JoinsExamples\JoinsExamples\obj\Debug\net7.0\refint\JoinsExamples.dll
+D:\Vikesh Workspace\Server Side\!1stDay\JoinsExamples\JoinsExamples\obj\Debug\net7.0\JoinsExamples.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\JoinsExamples\JoinsExamples\obj\Debug\net7.0\JoinsExamples.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\JoinsExamples\JoinsExamples\obj\Debug\net7.0\ref\JoinsExamples.dll

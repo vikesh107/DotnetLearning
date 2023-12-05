@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\QueueGenricExample\bin\Debug\net7.0\QueueGenricExample.exe
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\QueueGenricExample\bin\Debug\net7.0\QueueGenricExample.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\QueueGenricExample\bin\Debug\net7.0\QueueGenricExample.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\QueueGenricExample\bin\Debug\net7.0\QueueGenricExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\QueueGenricExample\bin\Debug\net7.0\QueueGenricExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\QueueGenricExample\obj\Debug\net7.0\QueueGenricExample.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\QueueGenricExample\obj\Debug\net7.0\QueueGenricExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\QueueGenricExample\obj\Debug\net7.0\QueueGenricExample.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\QueueGenricExample\obj\Debug\net7.0\QueueGenricExample.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\QueueGenricExample\obj\Debug\net7.0\QueueGenricExample.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\QueueGenricExample\obj\Debug\net7.0\QueueGenricExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\QueueGenricExample\obj\Debug\net7.0\refint\QueueGenricExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\QueueGenricExample\obj\Debug\net7.0\QueueGenricExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\QueueGenricExample\obj\Debug\net7.0\QueueGenricExample.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\Dictionary\QueueGenricExample\obj\Debug\net7.0\ref\QueueGenricExample.dll

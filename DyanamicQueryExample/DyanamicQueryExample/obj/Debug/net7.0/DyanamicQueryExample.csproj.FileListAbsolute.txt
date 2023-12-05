@@ -1,0 +1,17 @@
+D:\Vikesh Workspace\Server Side\!1stDay\DyanamicQueryExample\DyanamicQueryExample\bin\Debug\net7.0\DyanamicQueryExample.exe
+D:\Vikesh Workspace\Server Side\!1stDay\DyanamicQueryExample\DyanamicQueryExample\bin\Debug\net7.0\DyanamicQueryExample.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\DyanamicQueryExample\DyanamicQueryExample\bin\Debug\net7.0\DyanamicQueryExample.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\DyanamicQueryExample\DyanamicQueryExample\bin\Debug\net7.0\DyanamicQueryExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\DyanamicQueryExample\DyanamicQueryExample\bin\Debug\net7.0\DyanamicQueryExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\DyanamicQueryExample\DyanamicQueryExample\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+D:\Vikesh Workspace\Server Side\!1stDay\DyanamicQueryExample\DyanamicQueryExample\obj\Debug\net7.0\DyanamicQueryExample.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\DyanamicQueryExample\DyanamicQueryExample\obj\Debug\net7.0\DyanamicQueryExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\DyanamicQueryExample\DyanamicQueryExample\obj\Debug\net7.0\DyanamicQueryExample.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\DyanamicQueryExample\DyanamicQueryExample\obj\Debug\net7.0\DyanamicQueryExample.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\DyanamicQueryExample\DyanamicQueryExample\obj\Debug\net7.0\DyanamicQueryExample.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\DyanamicQueryExample\DyanamicQueryExample\obj\Debug\net7.0\DyanamicQueryExample.csproj.CopyComplete
+D:\Vikesh Workspace\Server Side\!1stDay\DyanamicQueryExample\DyanamicQueryExample\obj\Debug\net7.0\DyanamicQueryExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\DyanamicQueryExample\DyanamicQueryExample\obj\Debug\net7.0\refint\DyanamicQueryExample.dll
+D:\Vikesh Workspace\Server Side\!1stDay\DyanamicQueryExample\DyanamicQueryExample\obj\Debug\net7.0\DyanamicQueryExample.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\DyanamicQueryExample\DyanamicQueryExample\obj\Debug\net7.0\DyanamicQueryExample.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\DyanamicQueryExample\DyanamicQueryExample\obj\Debug\net7.0\ref\DyanamicQueryExample.dll

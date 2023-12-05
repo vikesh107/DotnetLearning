@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\SinleAndSinfleORdefrult\bin\Debug\net7.0\SinleAndSinfleORdefrult.exe
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\SinleAndSinfleORdefrult\bin\Debug\net7.0\SinleAndSinfleORdefrult.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\SinleAndSinfleORdefrult\bin\Debug\net7.0\SinleAndSinfleORdefrult.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\SinleAndSinfleORdefrult\bin\Debug\net7.0\SinleAndSinfleORdefrult.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\SinleAndSinfleORdefrult\bin\Debug\net7.0\SinleAndSinfleORdefrult.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\SinleAndSinfleORdefrult\obj\Debug\net7.0\SinleAndSinfleORdefrult.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\SinleAndSinfleORdefrult\obj\Debug\net7.0\SinleAndSinfleORdefrult.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\SinleAndSinfleORdefrult\obj\Debug\net7.0\SinleAndSinfleORdefrult.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\SinleAndSinfleORdefrult\obj\Debug\net7.0\SinleAndSinfleORdefrult.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\SinleAndSinfleORdefrult\obj\Debug\net7.0\SinleAndSinfleORdefrult.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\SinleAndSinfleORdefrult\obj\Debug\net7.0\SinleAndSinfleORdefrult.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\SinleAndSinfleORdefrult\obj\Debug\net7.0\refint\SinleAndSinfleORdefrult.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\SinleAndSinfleORdefrult\obj\Debug\net7.0\SinleAndSinfleORdefrult.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\SinleAndSinfleORdefrult\obj\Debug\net7.0\SinleAndSinfleORdefrult.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\SinleAndSinfleORdefrult\obj\Debug\net7.0\ref\SinleAndSinfleORdefrult.dll

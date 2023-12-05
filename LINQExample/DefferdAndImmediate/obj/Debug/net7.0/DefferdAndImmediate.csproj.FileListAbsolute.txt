@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\LINQExample\DefferdAndImmediate\bin\Debug\net7.0\DefferdAndImmediate.exe
+D:\Vikesh Workspace\Server Side\!1stDay\LINQExample\DefferdAndImmediate\bin\Debug\net7.0\DefferdAndImmediate.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\LINQExample\DefferdAndImmediate\bin\Debug\net7.0\DefferdAndImmediate.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\LINQExample\DefferdAndImmediate\bin\Debug\net7.0\DefferdAndImmediate.dll
+D:\Vikesh Workspace\Server Side\!1stDay\LINQExample\DefferdAndImmediate\bin\Debug\net7.0\DefferdAndImmediate.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\LINQExample\DefferdAndImmediate\obj\Debug\net7.0\DefferdAndImmediate.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\LINQExample\DefferdAndImmediate\obj\Debug\net7.0\DefferdAndImmediate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\LINQExample\DefferdAndImmediate\obj\Debug\net7.0\DefferdAndImmediate.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\LINQExample\DefferdAndImmediate\obj\Debug\net7.0\DefferdAndImmediate.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\LINQExample\DefferdAndImmediate\obj\Debug\net7.0\DefferdAndImmediate.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\LINQExample\DefferdAndImmediate\obj\Debug\net7.0\DefferdAndImmediate.dll
+D:\Vikesh Workspace\Server Side\!1stDay\LINQExample\DefferdAndImmediate\obj\Debug\net7.0\refint\DefferdAndImmediate.dll
+D:\Vikesh Workspace\Server Side\!1stDay\LINQExample\DefferdAndImmediate\obj\Debug\net7.0\DefferdAndImmediate.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\LINQExample\DefferdAndImmediate\obj\Debug\net7.0\DefferdAndImmediate.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\LINQExample\DefferdAndImmediate\obj\Debug\net7.0\ref\DefferdAndImmediate.dll

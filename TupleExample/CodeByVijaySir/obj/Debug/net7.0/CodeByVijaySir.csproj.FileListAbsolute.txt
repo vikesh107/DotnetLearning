@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\CodeByVijaySir\bin\Debug\net7.0\CodeByVijaySir.exe
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\CodeByVijaySir\bin\Debug\net7.0\CodeByVijaySir.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\CodeByVijaySir\bin\Debug\net7.0\CodeByVijaySir.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\CodeByVijaySir\bin\Debug\net7.0\CodeByVijaySir.dll
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\CodeByVijaySir\bin\Debug\net7.0\CodeByVijaySir.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\CodeByVijaySir\obj\Debug\net7.0\CodeByVijaySir.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\CodeByVijaySir\obj\Debug\net7.0\CodeByVijaySir.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\CodeByVijaySir\obj\Debug\net7.0\CodeByVijaySir.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\CodeByVijaySir\obj\Debug\net7.0\CodeByVijaySir.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\CodeByVijaySir\obj\Debug\net7.0\CodeByVijaySir.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\CodeByVijaySir\obj\Debug\net7.0\CodeByVijaySir.dll
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\CodeByVijaySir\obj\Debug\net7.0\refint\CodeByVijaySir.dll
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\CodeByVijaySir\obj\Debug\net7.0\CodeByVijaySir.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\CodeByVijaySir\obj\Debug\net7.0\CodeByVijaySir.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\TupleExample\CodeByVijaySir\obj\Debug\net7.0\ref\CodeByVijaySir.dll

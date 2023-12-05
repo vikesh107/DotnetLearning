@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\AnonymoMethod\AnonymoMethod\bin\Debug\net7.0\AnonymoMethod.exe
+D:\Vikesh Workspace\Server Side\!1stDay\AnonymoMethod\AnonymoMethod\bin\Debug\net7.0\AnonymoMethod.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\AnonymoMethod\AnonymoMethod\bin\Debug\net7.0\AnonymoMethod.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\AnonymoMethod\AnonymoMethod\bin\Debug\net7.0\AnonymoMethod.dll
+D:\Vikesh Workspace\Server Side\!1stDay\AnonymoMethod\AnonymoMethod\bin\Debug\net7.0\AnonymoMethod.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\AnonymoMethod\AnonymoMethod\obj\Debug\net7.0\AnonymoMethod.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\AnonymoMethod\AnonymoMethod\obj\Debug\net7.0\AnonymoMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\AnonymoMethod\AnonymoMethod\obj\Debug\net7.0\AnonymoMethod.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\AnonymoMethod\AnonymoMethod\obj\Debug\net7.0\AnonymoMethod.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\AnonymoMethod\AnonymoMethod\obj\Debug\net7.0\AnonymoMethod.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\AnonymoMethod\AnonymoMethod\obj\Debug\net7.0\AnonymoMethod.dll
+D:\Vikesh Workspace\Server Side\!1stDay\AnonymoMethod\AnonymoMethod\obj\Debug\net7.0\refint\AnonymoMethod.dll
+D:\Vikesh Workspace\Server Side\!1stDay\AnonymoMethod\AnonymoMethod\obj\Debug\net7.0\AnonymoMethod.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\AnonymoMethod\AnonymoMethod\obj\Debug\net7.0\AnonymoMethod.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\AnonymoMethod\AnonymoMethod\obj\Debug\net7.0\ref\AnonymoMethod.dll

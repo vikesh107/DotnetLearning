@@ -1,0 +1,15 @@
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\ElementAtORElementDefult\bin\Debug\net7.0\ElementAtORElementDefult.exe
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\ElementAtORElementDefult\bin\Debug\net7.0\ElementAtORElementDefult.deps.json
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\ElementAtORElementDefult\bin\Debug\net7.0\ElementAtORElementDefult.runtimeconfig.json
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\ElementAtORElementDefult\bin\Debug\net7.0\ElementAtORElementDefult.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\ElementAtORElementDefult\bin\Debug\net7.0\ElementAtORElementDefult.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\ElementAtORElementDefult\obj\Debug\net7.0\ElementAtORElementDefult.csproj.AssemblyReference.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\ElementAtORElementDefult\obj\Debug\net7.0\ElementAtORElementDefult.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\ElementAtORElementDefult\obj\Debug\net7.0\ElementAtORElementDefult.AssemblyInfoInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\ElementAtORElementDefult\obj\Debug\net7.0\ElementAtORElementDefult.AssemblyInfo.cs
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\ElementAtORElementDefult\obj\Debug\net7.0\ElementAtORElementDefult.csproj.CoreCompileInputs.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\ElementAtORElementDefult\obj\Debug\net7.0\ElementAtORElementDefult.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\ElementAtORElementDefult\obj\Debug\net7.0\refint\ElementAtORElementDefult.dll
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\ElementAtORElementDefult\obj\Debug\net7.0\ElementAtORElementDefult.pdb
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\ElementAtORElementDefult\obj\Debug\net7.0\ElementAtORElementDefult.genruntimeconfig.cache
+D:\Vikesh Workspace\Server Side\!1stDay\StanderQueryExample\ElementAtORElementDefult\obj\Debug\net7.0\ref\ElementAtORElementDefult.dll
